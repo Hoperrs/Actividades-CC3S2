@@ -1,0 +1,3 @@
+[submodule "Actividad1/devops-practice"]
+	path = Actividad1/devops-practice
+	url = git@github.com:Hoperrs/devops-practice.git
