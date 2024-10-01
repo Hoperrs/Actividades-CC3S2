@@ -1,6 +1,6 @@
-[submodule "Actividad1/devops-practice"]
-	path = Actividad1/devops-practice
+[submodule "Actividad01/devops-practice"]
+	path = Actividad01/devops-practice
 	url = git@github.com:Hoperrs/devops-practice.git
-[submodule "Actividad2/devsecops-practice"]
-	path = Actividad2/devsecops-practice
+[submodule "Actividad02/devsecops-practice"]
+	path = Actividad02/devsecops-practice
 	url = git@github.com:Hoperrs/devsecops-practice.git
