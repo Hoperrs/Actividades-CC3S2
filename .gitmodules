@@ -4,3 +4,6 @@
 [submodule "Actividad02/devsecops-practice"]
 	path = Actividad02/devsecops-practice
 	url = git@github.com:Hoperrs/devsecops-practice.git
+[submodule "Actividad03/kapumota-repo"]
+	path = Actividad03/kapumota-repo
+	url = git@github.com:Hoperrs/kapumota-repo.git
